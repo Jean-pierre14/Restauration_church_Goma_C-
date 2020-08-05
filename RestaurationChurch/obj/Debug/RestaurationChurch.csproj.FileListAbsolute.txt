@@ -1,0 +1,13 @@
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\RestaurationChurch.exe.config
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\RestaurationChurch.exe
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\RestaurationChurch.pdb
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.csprojResolveAssemblyReference.cache
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.Form1.resources
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.Properties.Resources.resources
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.csproj.GenerateResource.Cache
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.exe
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.pdb
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\academics\P projects\programming\C#\RestaurationChurch\RestaurationChurch\obj\Debug\RestaurationChurch.DashBoad.resources
